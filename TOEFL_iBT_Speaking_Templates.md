@@ -19,7 +19,7 @@
 4. **Conclusion**: Therefore, I believe that [restate your opinion or preference].
 
 ### Sample Answer:
-“In my opinion, I prefer living in a big city rather than in a small town. First, big cities offer better job opportunities. For example, when I moved to a large city, I was able to find a higher-paying job and advance in my career. Second, cities provide more entertainment and services, such as restaurants, museums, and public transportation. This makes life more convenient and enjoyable. Therefore, I believe living in a big city is much better for personal and professional growth.”
+“In my opinion, I prefer living in a big city rather than a small town for a few key reasons. First, big cities offer more opportunities for personal and professional growth. For example, cities usually have a wider range of jobs and career advancement possibilities, which is especially important for young professionals. I personally found a higher-paying job when I moved to a city, something I couldn't have done in my small hometown. Second, cities provide better access to entertainment and services, such as public transportation, museums, and theaters. These amenities make life more enjoyable and convenient. Finally, cities are more diverse, allowing me to meet people from different backgrounds and cultures, which has broadened my perspective. Therefore, I believe living in a big city is far better for both career development and personal growth.”
 
 ---
 
@@ -52,7 +52,7 @@ The university has announced a new policy that prohibits students from parking t
 4. **Conclusion**: Therefore, the speaker agrees/disagrees with [restate the speaker’s position].
 
 ### Sample Answer:
-“The reading passage discusses the university’s new policy to prohibit students from parking on campus to reduce congestion. In the conversation, the man disagrees with this policy. He explains that he now has to park far away and use the shuttle, which is inconvenient and time-consuming. He also mentions that the shuttle is often crowded and the schedule doesn’t fit with his classes. Therefore, he believes that the new policy is not effective for students.”
+“The reading passage describes a new parking policy that prohibits students from parking on campus during weekdays to reduce congestion and improve pedestrian safety. In the conversation, the man disagrees with the policy. He argues that it will make his commute much more difficult because he now has to park far from campus and take a crowded shuttle, which does not align with his class schedule. He also mentions that when it rains, the long walk from the shuttle stop to the campus will be very inconvenient. Additionally, he feels that the shuttle system itself is not efficient because it gets crowded, making the commute uncomfortable. In conclusion, the man believes the new parking policy is ineffective and causes more inconvenience for students than it solves.”
 
 ---
 
@@ -78,7 +78,7 @@ The university has announced a new policy that prohibits students from parking t
 4. **Conclusion**: In conclusion, [summarize the overall idea].
 
 ### Sample Answer:
-“The professor talks about mimicry in the animal kingdom. First, she explains that mimicry is when one species evolves to resemble another species. She gives the example of the Viceroy butterfly, which looks like the Monarch butterfly. Since predators avoid Monarch butterflies because they are toxic, they also avoid the Viceroy, even though it is not toxic. This mimicry helps the Viceroy survive by protecting it from predators. In conclusion, mimicry is an effective survival strategy for animals.”
+“The professor explains the concept of mimicry in animals, where one species evolves to look like another species to protect itself. She gives the example of the Viceroy butterfly, which closely resembles the Monarch butterfly. The Monarch butterfly is toxic to predators, so predators tend to avoid eating it. Since the Viceroy looks almost identical to the Monarch, predators avoid the Viceroy as well, even though it is not toxic. This similarity in appearance helps the Viceroy survive by preventing it from being eaten by predators. The professor highlights how this type of mimicry serves as a useful survival strategy for many species that resemble more dangerous or unappealing species to potential predators.”
 
 ---
 
@@ -109,7 +109,7 @@ The term "classical conditioning" refers to a type of learning where an organism
 5. **Conclusion**: Therefore, the reading and the lecture show that [conclude by linking the reading and the lecture].
 
 ### Sample Answer:
-“The reading passage defines classical conditioning as learning through associating two stimuli, discovered by Ivan Pavlov. According to the lecture, Pavlov’s experiment showed that dogs could be trained to salivate at the sound of a bell if it was repeatedly associated with food. The professor gives the example of how the sound of the bell became enough to trigger the dogs’ salivation, even without food present. Therefore, both the reading and the lecture illustrate how classical conditioning works through repeated associations.”
+“The reading passage defines classical conditioning as a learning process where an organism associates two stimuli, demonstrated by Pavlov’s famous experiment with dogs. The professor expands on this concept by explaining how Pavlov trained dogs to salivate at the sound of a bell, which was initially a neutral stimulus. Over time, by repeatedly pairing the bell with food, the dogs began to associate the sound with being fed. Eventually, the dogs would salivate when they heard the bell, even if no food was present. The professor emphasizes that this experiment is a classic example of learned behavior, as the dogs' natural response to food was transferred to the sound of the bell through repeated conditioning.”
 
 ---
 
